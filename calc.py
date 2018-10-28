@@ -10,3 +10,8 @@ def mult(x,y):
 multiplication function;
 x*y;
 
+def div(x,y):
+division function;
+x/y;
+
+
